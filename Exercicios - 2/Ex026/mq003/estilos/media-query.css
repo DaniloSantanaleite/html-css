@@ -5,3 +5,16 @@
 @media print {
     
 }
+
+@media sreen and (min-width: 768px) and (max-width: 992px) {
+   background-image: url(../);
+}
+
+@media sreen and (min-width: 992px) and (max-width: 1200px){
+
+}
+
+@media sreen and (min-width: 1200px){
+
+
+}
