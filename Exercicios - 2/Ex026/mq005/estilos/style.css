@@ -22,12 +22,16 @@ header > h1{
 .material-symbols-outlined{
     background-color: rgb(71, 71, 71);
     color: white;
+    width: 100vw;
     display: inline-block;
     text-align: center;
     padding: 10px;
+    cursor: pointer;
 
 }
-.material-symbols-outlined :hover{
+.material-symbols-outlined:hover{
+    background-color: white;
+    color: black;
 
 }
 
